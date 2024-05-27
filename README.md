@@ -117,7 +117,9 @@ Items represent the individual menu selections included in an order:
 •	Orders involve Payments: Each Order is associated with one Payment, and each Payment corresponds to one Order.
 
 # ER Diagram:
-Let's create an Entity-Relationship (ER) diagram to clearly illustrate the connections and characteristics of the elements in the Swiggy database structure. This ER diagram will act as a visual guide, highlighting the essential parts of Swiggy's data architecture. Utilizing this diagram will help us understand the complex relationships and interactions that shape the functioning of the platform.
+Let's create an Entity-Relationship (ER) diagram to clearly illustrate the connections and characteristics of the elements in the Swiggy database structure. This ER diagram will act as a visual guide, highlighting the essential parts of Swiggy's data architecture. Utilizing this diagram will help us understand the complex relationships and interactions that shape the func!
+tioning of the platform.
+![ER diagram](https://github.com/krunalpatel21/product-dissection-swiggy/assets/153430952/9bdac08f-db9d-4c13-aa5a-4b7a69508ad3)
 
  
 # Conclusion:
