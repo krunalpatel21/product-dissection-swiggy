@@ -119,9 +119,10 @@ Items represent the individual menu selections included in an order:
 # ER Diagram:
 Let's create an Entity-Relationship (ER) diagram to clearly illustrate the connections and characteristics of the elements in the Swiggy database structure. This ER diagram will act as a visual guide, highlighting the essential parts of Swiggy's data architecture. Utilizing this diagram will help us understand the complex relationships and interactions that shape the func!
 tioning of the platform.
-https://github.com/krunalpatel21/product-dissection-swiggy/blob/main/ER%20diagram.jpg
 
- 
+
+ ![ER diagram](https://github.com/krunalpatel21/product-dissection-swiggy/assets/153430952/5f412a0e-3e9d-44a2-a7c2-6f14f3350e66)
+
 # Conclusion:
 In this study, we have analyzed Swiggy's operational framework and its impact on the food delivery ecosystem. Swiggy has transformed the landscape of food ordering and delivery by addressing real-world challenges through technological innovation and user-centric solutions. The platform integrates entities such as users, restaurants, orders, deliveries, payments, and menu items, creating a robust and efficient system. This comprehensive structure not only facilitates seamless transactions but also caters to a diverse range of consumer needs and preferences. By analysing Swiggy's model, we gain valuable insights into how it successfully navigates the complexities of the food delivery sector, enhancing convenience for customers while providing vital support to restaurant partners. Swiggy's strategic approach and adaptive technology have propelled its growth, cementing its position as a leading player in the ever-evolving domain of online food services.
 
